@@ -2,7 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3f93a7f-ffdc-4f49-9957-3e0f0c238ef7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/joseloniaBlog/.gitignore" afterPath="$PROJECT_DIR$/joseloniaBlog/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/casper-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/casper-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/casper-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/404.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/casper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/ghost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/jasper_screen1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/jasper_screen2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/jasper_screen3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/jasper_screen4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/jasper_screen5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/jasper_screen6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/screen1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/screen2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/screen3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/screen4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/screen5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/screen6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GHOST.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/analytics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/author_pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/disqus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/loop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/post_pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/tag_pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/atom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/author.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/author.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/tag.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_plugins/jekyll-autgenerator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_plugins/jekyll-catgenerator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/1863-11-19-gettysburg-address.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/1865-11-26-down-the-rabbit-hole.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/1871-03-18-looking-glass-house.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/1912-07-24-out-to-sea.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/1948-12-12-the-purpose-of-education.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/1963-08-28-i-have-a-dream.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-08-12-the-businessman-and-fisherman.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-09-27-a-full-and-comprehensive-style-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/ghost.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/syntax.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/casper-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Joselonia.github.io.iml" afterPath="$PROJECT_DIR$/.idea/Joselonia.github.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-21-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/2017-05-21-welcome-to-jekyll.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,18 +91,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/joseloniaBlog/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -78,22 +142,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="joseloniaBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -123,24 +174,25 @@
       <workItem from="1499199253623" duration="152000" />
       <workItem from="1499218468630" duration="597000" />
       <workItem from="1499528974870" duration="22000" />
+      <workItem from="1499529009859" duration="1079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7675000" />
+    <option name="totallyTimeSpent" value="8754000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16614583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17132115" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5741325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5792746" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -164,6 +216,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/joseloniaBlog/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/joseloniaBlog/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
