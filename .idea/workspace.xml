@@ -2,35 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3f93a7f-ffdc-4f49-9957-3e0f0c238ef7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/a-full-and-comprehensive-style-test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/author/casper/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/author/casper/page2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/author/casper/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/down-the-rabbit-hole.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gettysburg-address.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i-have-a-dream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/looking-glass-house.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out-to-sea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/content/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/content/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/fables/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/fables/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/fiction/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/fiction/page2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/fiction/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/speeches/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/speeches/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag/test/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/the-businessman-and-fisherman.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/the-purpose-of-education.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/casper-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/casper-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/casper-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/404.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/casper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/cover1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/cover2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/cover3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/cover4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/cover5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/cover6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/cover7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/ghost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/jasper_screen1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/jasper_screen2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/jasper_screen3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/jasper_screen4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/jasper_screen5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/jasper_screen6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/screen1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/screen2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/screen3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/screen4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/screen5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/screen6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/images/small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/GHOST.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/a-full-and-comprehensive-style-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/css/ghost.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/casper-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/author/casper/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/author/casper/page2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/author/casper/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/down-the-rabbit-hole.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/gettysburg-address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/i-have-a-dream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/looking-glass-house.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/out-to-sea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/page2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/content/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/content/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/fables/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/fables/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/fiction/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/fiction/page2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/fiction/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/speeches/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/speeches/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tag/test/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/the-businessman-and-fisherman.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/the-purpose-of-education.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,20 +79,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="88">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/tag/content/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-132">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -93,6 +128,7 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -147,20 +183,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -313,7 +335,7 @@
       <workItem from="1499528974870" duration="22000" />
       <workItem from="1499529009859" duration="1321000" />
       <workItem from="1500758522747" duration="3197000" />
-      <workItem from="1500835844010" duration="6465000" />
+      <workItem from="1500835844010" duration="6632000" />
     </task>
     <task id="LOCAL-00001" summary="agregando fork original de jekyll">
       <created>1500759193361</created>
@@ -399,11 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500846931853</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="github page e twitter ghost theme test gemfile orig&#10;follow instrucciones 2">
+      <created>1500847267584</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1500847267584</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18658000" />
+    <option name="totallyTimeSpent" value="18825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -544,7 +573,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/_site/tag/content/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -552,10 +581,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/tag/content/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="88">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
