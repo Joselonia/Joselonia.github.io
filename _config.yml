@@ -62,7 +62,7 @@ branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
 production_url:  https://Joselonia.github.io/jasper/
-#source_url:      https://github.com/biomadeira/jasper/
+source_url:      https://github.com/Joselonia/Joselonia.github.io
 
 exclude:
   - README.md
