@@ -2,8 +2,231 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3f93a7f-ffdc-4f49-9957-3e0f0c238ef7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GHOST.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/analytics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/author_pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/disqus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/loop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/post_pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/tag_pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/atom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/author.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/author.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/error.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/tag.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/tag.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_plugins/jekyll-autgenerator.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_plugins/jekyll-catgenerator.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/1863-11-19-gettysburg-address.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/1865-11-26-down-the-rabbit-hole.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/1871-03-18-looking-glass-house.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/1912-07-24-out-to-sea.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/1948-12-12-the-purpose-of-education.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/1963-08-28-i-have-a-dream.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-08-12-the-businessman-and-fisherman.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-09-27-a-full-and-comprehensive-style-test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/GHOST.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/a-full-and-comprehensive-style-test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/ghost.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/css/screen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/casper-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/casper-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/casper-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/fonts/casper-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/casper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cover1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cover2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cover3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cover4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cover5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cover6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/cover7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/ghost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/jasper_screen1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/jasper_screen2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/jasper_screen3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/jasper_screen4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/jasper_screen5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/jasper_screen6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/screen1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/screen2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/screen3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/screen4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/screen5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/screen6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/js/jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/author/casper/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/author/casper/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/author/casper/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/down-the-rabbit-hole.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/gettysburg-address.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/i-have-a-dream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/looking-glass-house.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/out-to-sea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/content/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/content/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/fables/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/fables/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/fiction/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/fiction/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/fiction/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/speeches/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/speeches/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/test/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/the-businessman-and-fisherman.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/the-purpose-of-education.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/a-full-and-comprehensive-style-test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/ghost.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/screen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/syntax.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/casper-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/casper-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/casper-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/casper-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/casper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cover1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cover2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cover3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cover4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cover5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cover6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/cover7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/ghost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/jasper_screen1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/jasper_screen2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/jasper_screen3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/jasper_screen4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/jasper_screen5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/jasper_screen6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/screen1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/screen2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/screen3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/screen4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/screen5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/screen6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/author/casper/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/author/casper/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/author/casper/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/down-the-rabbit-hole.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gettysburg-address.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/i-have-a-dream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/GHOST.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/a-full-and-comprehensive-style-test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/about/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/css/ghost.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/css/screen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/css/syntax.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/fonts/casper-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/fonts/casper-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/fonts/casper-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/fonts/casper-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/casper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/cover1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/cover2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/cover3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/cover4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/cover5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/cover6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/cover7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/ghost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/jasper_screen1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/jasper_screen2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/jasper_screen3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/jasper_screen4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/jasper_screen5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/jasper_screen6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/screen1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/screen2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/screen3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/screen4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/screen5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/screen6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/images/small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/assets/js/jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/author/casper/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/author/casper/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/author/casper/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/down-the-rabbit-hole.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/gettysburg-address.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/i-have-a-dream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/looking-glass-house.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/out-to-sea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/content/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/content/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/fables/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/fables/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/fiction/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/fiction/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/fiction/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/speeches/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/speeches/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/tag/test/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/the-businessman-and-fisherman.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jasper-pages/the-purpose-of-education.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/looking-glass-house.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out-to-sea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/content/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/content/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/fables/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/fables/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/fiction/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/fiction/page2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/fiction/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/speeches/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/speeches/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/test/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/the-businessman-and-fisherman.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/the-purpose-of-education.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,58 +239,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tag/content/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="64" column="65" lean-forward="false" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/tag/content/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-462">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="screen.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/screen.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -127,38 +299,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Joselonia.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -311,7 +451,7 @@
       <workItem from="1499528974870" duration="22000" />
       <workItem from="1499529009859" duration="1321000" />
       <workItem from="1500758522747" duration="3197000" />
-      <workItem from="1500835844010" duration="8744000" />
+      <workItem from="1500835844010" duration="9597000" />
     </task>
     <task id="LOCAL-00001" summary="agregando fork original de jekyll">
       <created>1500759193361</created>
@@ -439,17 +579,24 @@
       <option name="project" value="LOCAL" />
       <updated>1500849386482</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="github page e twitter ghost theme test gemfile orig&#10;follow instrucciones 2">
+      <created>1500849552361</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1500849552361</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20937000" />
+    <option name="totallyTimeSpent" value="21790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21965629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21965629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4300518" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -584,14 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/screen1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -605,10 +744,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="64" column="65" lean-forward="false" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding />
         </state>
       </provider>
