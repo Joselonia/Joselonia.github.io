@@ -16,14 +16,15 @@ author: 'Casper McFadden'
 nickname: casper
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+url:
+image:
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url:
+google_analytics:
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: ""
+#/jasper/""
 
 # Permalinks
 permalink: /:title
@@ -33,6 +34,9 @@ permalink: /:title
 
 # gems and other configs
 gems: [jekyll-paginate]
+  - - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
 exclude: [vendor]
 
 # Additional settings available on the front-matter
